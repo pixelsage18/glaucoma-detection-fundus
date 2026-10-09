@@ -1,6 +1,6 @@
 ### Environment
 
-This project was developed using Python 3.12.
+# This project was developed using Python 3.12.
 
 numpy==1.26.4
 
