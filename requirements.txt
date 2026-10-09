@@ -1,0 +1,21 @@
+### Environment
+
+This project was developed using Python 3.12.
+
+numpy==1.26.4
+
+torch==2.2.2
+torchvision==0.17.2
+
+pandas==3.0.6
+openpyxl
+
+scikit-learn
+matplotlib
+Pillow
+
+grad-cam
+opencv-python-headless==4.8.1.78
+ttach
+tqdm
+scipy
